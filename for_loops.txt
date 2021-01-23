@@ -2,3 +2,6 @@ for(int i=0;i<n;i++)
 {
    System.out.println("Hii");
 }
+
+("for loops added")
+("new algorithms added")
