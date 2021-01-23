@@ -5,4 +5,5 @@ for(int i=0;i<n;i++)
 
 ("for loops added")
 ("new algorithms added")
-("changes in dev branch")
+(changes is done in dev branch)
+
